@@ -1,0 +1,18 @@
+{
+    "id": "spec_mode",
+    "version": "0.0.1",
+    "name": "SpecMode",
+    "description": {
+        "en_us": "Advanced free camera for survival players.",
+        "zh_cn": "适用于生存玩家的更高级的灵魂出窍."
+    },
+    "author": "Mooling0602",
+    "link": "https://github.com/StaringPlanet/PTWServerPlugins-MCDR/src/SpecMode",
+    "dependencies": {
+        "mcdreforged": ">=2.14.1"
+    },
+    "entrypoint": "spec_mode.entry",
+    "resources": [
+        "lang"
+    ]
+}
